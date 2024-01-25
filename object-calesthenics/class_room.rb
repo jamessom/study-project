@@ -7,19 +7,18 @@ def ClassRoom
   end
 
   def approvedStudents
-    approved_list = []
-
-    @students.each do |student|
-      approved = true
-
-      student[:notes].each do |note|
-        next unless approved
-        approved = note >= 6
-      end
-
-      approved_list << student if approved
+    @students.select do |student|
+      is_approved?(student)
     end
+  end
 
-    approved_list
+  private
+
+  def is_approved?(students)
+    notes = student[:notes]
+
+    notes.all? do |note|
+      note >= 6
+    end
   end
 end

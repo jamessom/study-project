@@ -1,0 +1,22 @@
+- Create readme
+
+
+First topic: Object calesthenics
+- https://www.youtube.com/watch?v=BJxN3V8japk
+- https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
+- https://medium.com/@rogeriozambon/object-calisthenics-fea3b5c2d9c
+- https://www.alura.com.br/conteudo/object-calisthenics-exercitando-orientacao-objetos
+
+
+Second topic: Sandi Metz' rules for developers
+- https://medium.com/@rogeriozambon/as-regras-de-sandi-metz-para-desenvolvedores-a97a52f50ab8
+
+Next topic: Replace conditional logic with strategy pattern
+- https://www.jetbrains.com/help/idea/replace-conditional-logic-with-strategy-pattern.html
+- https://medium.com/@Yerazhas/refactoring-to-patterns-replace-conditional-logic-with-strategy-9970e057093a
+- https://refactoring.guru/pt-br/replace-type-code-with-state-strategy
+- https://www.industriallogic.com/xp/refactoring/conditionalWithStrategy.html
+- https://medium.com/aia-sg-techblog/refactor-if-elseif-elseif-using-strategy-design-pattern-80c51913a539
+- https://itnext.io/how-we-avoided-if-else-and-wrote-extendable-code-with-strategy-pattern-256e34b90caf
+- https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/
+- https://www.sciencedirect.com/science/article/abs/pii/S0950584912001024
